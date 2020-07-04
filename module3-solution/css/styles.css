@@ -1,1 +1,25 @@
 
+.bs-example {
+    margin: 20px;
+    
+}
+.navbar {
+    margin: 20px;
+    border-radius: 10px;
+}
+body {
+    font-size: 25px;
+    background-color: #222831;
+    color:#ECECEC;
+}
+section {
+    background-color: #30475E;
+    border-radius: 5px;
+}
+h3 {
+    margin:10px;
+    color: #F2A365;
+}
+p {
+    margin: 10px;
+}
